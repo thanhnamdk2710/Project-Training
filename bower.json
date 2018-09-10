@@ -1,0 +1,25 @@
+{
+  "name": "Project-Training",
+  "description": "Project Training development by NamDev",
+  "main": "",
+  "authors": [
+    "NamDev"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Project",
+    "Training"
+  ],
+  "homepage": "https://github.com/thanhnamdk2710/Project-Training",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "jquery": ">=1.7"
+  }
+}
